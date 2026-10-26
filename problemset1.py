@@ -6,3 +6,4 @@ if y>x:
     print("Y is greater than x")
 if x==y:
     print("X is equal to Y")
+
